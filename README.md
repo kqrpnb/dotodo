@@ -1,6 +1,6 @@
 # Dotodo
 
-![](/Users/vickibealman/Desktop/dotodo/src/assets/dotodo.png)
+![](https://github.com/DrVicki/dotodo/blob/main/src/assets/dotodo.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
